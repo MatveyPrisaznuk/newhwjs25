@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/MatveyPrisaznuk/newhwjs25/issues"
   },
-  "homepage": "https://github.com/MatveyPrisaznuk/newhwjs25#readme",
+  "homepage": "https://MatveyPrisaznuk.github.io/newhwjs25/",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.16.4"

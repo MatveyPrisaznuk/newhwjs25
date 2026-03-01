@@ -2,7 +2,7 @@ const inputRef = document.querySelector("#bookmarkInput");
 const listRef = document.querySelector("#bookmarkList");
 const btnRef = document.querySelector("#addBookmarkBtn");
 
-const bookArray = JSON.parse(localStorage.getItem("bookmarks"));
+const bookArray = JSON.parse(localStorage.getItem("bookmarks")) || [];
 renderArray();
 
 btnRef.addEventListener("click", () => {
