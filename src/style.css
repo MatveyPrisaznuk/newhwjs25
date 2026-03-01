@@ -37,10 +37,13 @@ a {
 }
 
 button {
-  background-color: #00ff15;
+  background-color: #328d3a;
   color: white;
+
   cursor: pointer;
+
   border: none;
+  
   width: 100px;
 }
 
@@ -57,7 +60,7 @@ ul li {
   padding: 10px;
   margin: 5px 0;
   background: #f9f9f9;
-  
+
   border-radius: 4px;
 
   display: flex;
